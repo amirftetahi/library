@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+}
+body {
+    font-family: sans;
+    background-color:  #e6e6e6;
+
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+@font-face {
+    font-family: sans;
+    src: url(../fonts/sans.woff2);
+}
+i {
+    font-size: 1.5rem;
+}
